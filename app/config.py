@@ -1,0 +1,1 @@
+ALLOWED_LIST = {"nginx", "ssh", "NetworkManager"}
